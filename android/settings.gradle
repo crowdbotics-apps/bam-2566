@@ -1,0 +1,3 @@
+rootProject.name = 'bam_2566'
+
+include ':app'
